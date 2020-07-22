@@ -1,0 +1,14 @@
+#include "capcom_sprites_data.h"
+
+const u16* Capcom_char_offs[]=	{
+				Capcom_001_Data,Capcom_002_Data,Capcom_003_Data,Capcom_004_Data,Capcom_005_Data,Capcom_006_Data,Capcom_007_Data,Capcom_008_Data,Capcom_009_Data,Capcom_010_Data,Capcom_011_Data,Capcom_012_Data,
+				Capcom_013_Data,Capcom_014_Data,Capcom_015_Data,Capcom_016_Data,Capcom_017_Data,Capcom_018_Data,Capcom_019_Data,Capcom_020_Data,Capcom_021_Data,Capcom_022_Data,Capcom_023_Data,Capcom_024_Data,
+				Capcom_025_Data,Capcom_026_Data,Capcom_027_Data,Capcom_028_Data,Capcom_029_Data,Capcom_030_Data,Capcom_031_Data,Capcom_032_Data,Capcom_033_Data,Capcom_034_Data,Capcom_035_Data,Capcom_036_Data,
+				Capcom_037_Data,Capcom_038_Data,Capcom_039_Data,Capcom_040_Data,Capcom_041_Data,Capcom_042_Data,Capcom_043_Data,Capcom_044_Data,Capcom_045_Data,Capcom_046_Data,Capcom_047_Data,Capcom_048_Data,
+				Capcom_049_Data,Capcom_050_Data,Capcom_051_Data,Capcom_052_Data,Capcom_053_Data,Capcom_054_Data,Capcom_055_Data,Capcom_056_Data,Capcom_057_Data,Capcom_058_Data,Capcom_059_Data,Capcom_060_Data,
+				Capcom_061_Data,Capcom_062_Data,Capcom_063_Data,Capcom_064_Data,Capcom_065_Data,Capcom_066_Data,Capcom_067_Data,Capcom_068_Data,Capcom_069_Data,Capcom_070_Data,Capcom_071_Data,Capcom_072_Data,
+				Capcom_073_Data,Capcom_074_Data,Capcom_075_Data,Capcom_076_Data,Capcom_077_Data,Capcom_078_Data,Capcom_079_Data,Capcom_080_Data,Capcom_081_Data,Capcom_082_Data,Capcom_083_Data,Capcom_084_Data,
+				Capcom_085_Data,Capcom_086_Data,Capcom_087_Data,Capcom_088_Data,Capcom_089_Data,Capcom_090_Data,Capcom_091_Data,Capcom_092_Data,Capcom_093_Data,Capcom_094_Data,Capcom_095_Data,Capcom_096_Data,
+				Capcom_097_Data,Capcom_098_Data,Capcom_099_Data,Capcom_100_Data,Capcom_101_Data,Capcom_102_Data,Capcom_103_Data,Capcom_104_Data,Capcom_105_Data,Capcom_106_Data,Capcom_107_Data,Capcom_108_Data,
+				Capcom_109_Data,Capcom_110_Data,Capcom_111_Data,Capcom_112_Data,Capcom_113_Data,Capcom_114_Data,Capcom_115_Data,Capcom_116_Data,Capcom_117_Data,Capcom_118_Data,Capcom_119_Data,Capcom_120_Data,
+				};

@@ -1,0 +1,14 @@
+#include "SNK_sprites_data.h"
+
+const u16* SNK_char_offs[]=	{
+				SNK_001_Data,SNK_002_Data,SNK_003_Data,SNK_004_Data,SNK_005_Data,SNK_006_Data,SNK_007_Data,SNK_008_Data,SNK_009_Data,SNK_010_Data,SNK_011_Data,SNK_012_Data,
+				SNK_013_Data,SNK_014_Data,SNK_015_Data,SNK_016_Data,SNK_017_Data,SNK_018_Data,SNK_019_Data,SNK_020_Data,SNK_021_Data,SNK_022_Data,SNK_023_Data,SNK_024_Data,
+				SNK_025_Data,SNK_026_Data,SNK_027_Data,SNK_028_Data,SNK_029_Data,SNK_030_Data,SNK_031_Data,SNK_032_Data,SNK_033_Data,SNK_034_Data,SNK_035_Data,SNK_036_Data,
+				SNK_037_Data,SNK_038_Data,SNK_039_Data,SNK_040_Data,SNK_041_Data,SNK_042_Data,SNK_043_Data,SNK_044_Data,SNK_045_Data,SNK_046_Data,SNK_047_Data,SNK_048_Data,
+				SNK_049_Data,SNK_050_Data,SNK_051_Data,SNK_052_Data,SNK_053_Data,SNK_054_Data,SNK_055_Data,SNK_056_Data,SNK_057_Data,SNK_058_Data,SNK_059_Data,SNK_060_Data,
+				SNK_061_Data,SNK_062_Data,SNK_063_Data,SNK_064_Data,SNK_065_Data,SNK_066_Data,SNK_067_Data,SNK_068_Data,SNK_069_Data,SNK_070_Data,SNK_071_Data,SNK_072_Data,
+				SNK_073_Data,SNK_074_Data,SNK_075_Data,SNK_076_Data,SNK_077_Data,SNK_078_Data,SNK_079_Data,SNK_080_Data,SNK_081_Data,SNK_082_Data,SNK_083_Data,SNK_084_Data,
+				SNK_085_Data,SNK_086_Data,SNK_087_Data,SNK_088_Data,SNK_089_Data,SNK_090_Data,SNK_091_Data,SNK_092_Data,SNK_093_Data,SNK_094_Data,SNK_095_Data,SNK_096_Data,
+				SNK_097_Data,SNK_098_Data,SNK_099_Data,SNK_100_Data,SNK_101_Data,SNK_102_Data,SNK_103_Data,SNK_104_Data,SNK_105_Data,SNK_106_Data,SNK_107_Data,SNK_108_Data,
+				SNK_109_Data,SNK_110_Data,SNK_111_Data,SNK_112_Data,SNK_113_Data,SNK_114_Data,SNK_115_Data,SNK_116_Data,SNK_117_Data,SNK_118_Data,SNK_119_Data,SNK_120_Data,
+				};
